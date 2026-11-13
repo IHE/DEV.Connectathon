@@ -1,12 +1,12 @@
-# {{SUPPLEMENT_TITLE}}
+# Connectathon
 
-> **Status:** {{STATUS}}
+> **Status:** TODO: set status (e.g. Draft for Public Comment)
 > **Domain:** IHE Devices (DEV)
-> **Revision:** {{REVISION}}
+> **Revision:** TODO: set revision
 
 ## About This Document
 
-{{DESCRIPTION}}
+Files related to connectathon testing
 
 ## Quick Start
 
