@@ -1,4 +1,4 @@
-# Contributing to This Supplement
+# Contributing to This Respository
 
 Thank you for contributing to IHE Devices domain work.
 
@@ -6,10 +6,8 @@ Thank you for contributing to IHE Devices domain work.
 
 1. **Get access:** Ask the Domain Lead to add you to the `Devices-Domain` team.
 2. **Create a branch:** Never commit directly to `main`. Create a feature branch.
-3. **Make your changes:** Edit the `.adoc` files in `AsciiDoc_Source/`.
 4. **Open a Pull Request:** Push your branch and open a PR on GitHub.
 5. **Review:** A reviewer will look at your changes and provide feedback.
-6. **Merge:** Once approved and CI passes, the PR will be merged.
 
 ## Commit Messages
 
